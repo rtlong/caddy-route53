@@ -1,4 +1,4 @@
-module github.com/caddy-dns/route53
+module github.com/rtlong/caddy-route53
 
 go 1.25
 
